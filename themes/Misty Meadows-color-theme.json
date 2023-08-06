@@ -353,27 +353,18 @@
       "name": "Keyword, Storage",
       "scope": [
         "keyword",
+        "keyword.control",
         "storage.type",
         "storage.modifier",
       ],
       "settings": {
+        "fontStyle": "italic",
         "foreground": "#C792EA"
       }
     },
-    // {
-    //   "name": "Keyword, Storage",
-    //   "scope": [
-    //     "storage.type",
-    //     "keyword.control"
-    //   ],
-    //   "settings": {
-    //     "fontStyle": "italic"
-    //   }
-    // },
     {
       "name": "Operator, Misc",
       "scope": [
-        "keyword.control",
         "keyword.operator",
         "constant.other.color",
         "punctuation",
