@@ -1,13 +1,22 @@
 {
   "name": "misty-meadows",
   "displayName": "Misty Meadows",
-  "description": "VSCode dark theme based on Sublime Material Theme syntax highlighting",
+  "description": "VS Code dark theme based on Sublime Material Theme syntax highlighting",
   "publisher": "kukiron",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.81.0"
   },
   "icon": "icons/misty-meadows-vscode-icon.png",
+  "author": {
+    "name": "Kafil Uddin Kiron",
+    "email": "kafiluddin.kiron@gmail.com",
+    "url": "https://www.linkedin.com/in/kukiron/"
+  },
+  "repository": {
+    "url": "https://github.com/kukiron/misty-meadows-vscode-theme.git",
+    "type": "git"
+  },
   "categories": [
     "Themes"
   ],
