@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Misty Meadows Logo" src="https://github.com/kukiron/misty-meadows-vscode-theme/blob/master/icons/misty-meadows-vscode-icon.png" width="100" />
+  <img alt="Misty Meadows Logo" src="https://raw.githubusercontent.com/kukiron/misty-meadows-vscode-theme/master/icons/misty-meadows-vscode-icon.png" width="100" />
 </p>
 
 <h1 align="center">
@@ -10,7 +10,7 @@
   A minimal, dark blue theme for VS Code for nightitme coding.
 </h3>
 
-![demo](https://github.com/kukiron/misty-meadows-vscode-theme/blob/master/images/demo.png)
+![demo](https://raw.githubusercontent.com/kukiron/misty-meadows-vscode-theme/master/images/demo.png)
 
 ## Installation via VS Code
 
