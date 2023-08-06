@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-  A minimal, dark blue theme for VS Code for nightitme coding.
+  Dark blue VS Code theme with minimalistic syntax highlighting.
 </h3>
 
 ![demo](https://raw.githubusercontent.com/kukiron/misty-meadows-vscode-theme/master/images/demo.png)
@@ -18,15 +18,16 @@
 2. Search for `Misty Meadows`
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
-5. Code > Preferences > Color Theme > **Misty Meadows**
+5. `Code > Preferences > Color Theme > Misty Meadows`
 
 ## Manual Installation
 
 Read the [VSC Extension Quickstart Guide](https://github.com/kukiron/misty-meadows-vscode-theme/blob/master/vsc-extension-quickstart.md)
 
-## Icon Theme
+## Icon Theme & Font
 
-The file icon theme seen in the screenshot above is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
+- File icon in the screenshot: [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
+- Coding font in the screenshot: [Dank Mono](https://philpl.gumroad.com/l/dank-mono).
 
 ## Theming Reference
 
@@ -36,4 +37,4 @@ The file icon theme seen in the screenshot above is [Material Icon Theme](https:
 
 [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
 
-Syntaxcoloring based on [Sublime Material Theme](https://github.com/JarvisPrestidge/vscode-material-theme)
+Syntax coloring based on [Sublime Material Theme](https://github.com/JarvisPrestidge/vscode-material-theme)
