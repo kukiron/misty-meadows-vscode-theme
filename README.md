@@ -1,16 +1,31 @@
-# misty-meadows README
+# Misty Meadows VS Code Theme
 
-## Working with Markdown
+---
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## A minimal, dark blue theme for VS Code for nightitme coding
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Installation via VS Code
 
-## For more information
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Misty Meadows`
+3. Click **Install** to install it
+4. Click **Reload** to reload the editor
+5. Code > Preferences > Color Theme > **Misty Meadows**
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Manual Installation
 
-**Enjoy!**
+Read the [VSC Extension Quickstart Guide](https://github.com/kukiron/misty-meadows-vscode-theme/blob/master/vsc-extension-quickstart.md)
+
+## Icon Theme
+
+The file icon theme seen in the screenshot above is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
+
+## Theming Reference
+
+[VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+
+[VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
+
+[VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
+
+Syntaxcoloring based on [Ayu Mirage Theme](https://github.com/JarvisPrestidge/vscode-material-theme)
