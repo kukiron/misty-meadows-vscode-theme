@@ -36,4 +36,4 @@ The file icon theme seen in the screenshot above is [Material Icon Theme](https:
 
 [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
 
-Syntaxcoloring based on [Ayu Mirage Theme](https://github.com/JarvisPrestidge/vscode-material-theme)
+Syntaxcoloring based on [Sublime Material Theme](https://github.com/JarvisPrestidge/vscode-material-theme)
