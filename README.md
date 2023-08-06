@@ -1,8 +1,16 @@
-# Misty Meadows VS Code Theme
+<p align="center">
+  <img alt="Halcyon Logo" src="https://github.com/kukiron/misty-meadows-vscode-theme/blob/master/images/logo.png" width="100" />
+</p>
 
----
+<h1 align="center">
+  Misty Meadows VS Code Theme
+</h1>
 
-## A minimal, dark blue theme for VS Code for nightitme coding
+<h3 align="center">
+  A minimal, dark blue theme for VS Code for nightitme coding.
+</h3>
+
+![demo](https://github.com/kukiron/misty-meadows-vscode-theme/blob/master/images/demo.png)
 
 ## Installation via VS Code
 
