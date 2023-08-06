@@ -354,6 +354,7 @@
       "scope": [
         "keyword",
         "keyword.control",
+        "keyword.operator",
         "storage.type",
         "storage.modifier",
       ],
@@ -365,7 +366,6 @@
     {
       "name": "Operator, Misc",
       "scope": [
-        "keyword.operator",
         "constant.other.color",
         "punctuation",
         "meta.tag",
