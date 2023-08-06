@@ -1,0 +1,23 @@
+{
+  "name": "misty-meadows",
+  "displayName": "Misty Meadows",
+  "description": "VSCode dark theme based on Sublime Material Theme syntax highlighting",
+  "publisher": "kukiron",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "icon": "icons/misty-meadows-vscode-icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Misty Meadows",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Misty Meadows-color-theme.json"
+      }
+    ]
+  }
+}
