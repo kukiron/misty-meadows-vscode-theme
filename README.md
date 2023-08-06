@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Halcyon Logo" src="https://github.com/kukiron/misty-meadows-vscode-theme/blob/master/images/logo.png" width="100" />
+  <img alt="Misty Meadows Logo" src="https://github.com/kukiron/misty-meadows-vscode-theme/blob/master/icons/misty-meadows-vscode-icon.png" width="100" />
 </p>
 
 <h1 align="center">
