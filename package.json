@@ -3,7 +3,7 @@
   "displayName": "Misty Meadows",
   "description": "VS Code dark theme based on Sublime Material Theme syntax highlighting",
   "publisher": "kukiron",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.81.0"
   },
