@@ -314,6 +314,8 @@
     "terminal.ansiBrightYellow": "#ffea00",
     "terminal.ansiWhite": "#b5bfd6",
     "terminal.ansiYellow": "#ffea00",
+    "terminal.ansiBlue": "#385dea",
+    "terminal.ansiBrightBlue": "#39b7ff",
     "terminalCursor.background": "#ffea00",
     "terminalCursor.foreground": "#ffea00",
 
@@ -322,9 +324,10 @@
     "debugToolBar.border": "#2f3b54",
 
     // Welcome Page
-    // "welcomePage.buttonBackground": "#2f3b54",
-    // "welcomePage.buttonHoverBackground": "#2f3b5499",
     "walkThrough.embeddedEditorBackground": "#171c28",
+    "welcomePage.progress.background": "#ffcc6633",
+    "welcomePage.tileBackground": "#1d2433",
+    "welcomePage.tileHoverBackground": "#283042",
 
     // Git colors
     "gitDecoration.modifiedResourceForeground": "#5ccfe6",
