@@ -386,17 +386,24 @@
         "foreground": "#eeffff"
       }
     },
-    // {
-    //   "name": "Colors",
-    //   "scope": "constant.other.color",
-    //   "settings": {
-    //     "foreground": "#ffffff"
-    //   }
-    // },
+    {
+      "name": "Constant Other Color",
+      "scope": "constant.other.color",
+      "settings": {
+        "foreground": "#ffcc66" // intermideate
+      }
+    },
+    {
+      "name": "Constant Other Color RGB Value Punctuation Definition Constant",
+      "scope": "constant.other.color.rgb-value punctuation.definition.constant",
+      "settings": {
+        "foreground": "#F78C6C" // intermideate
+      }
+    },
     {
       "name": "Colors",
       "scope": [
-        "constant.other.color",
+        // "constant.other.color",
         "punctuation.definition.entity",
         "constant.character.entity",
         "punctuation.definition.template-expression",
@@ -413,28 +420,36 @@
         "foreground": "#ef6b73"
       }
     },
-    // {
-    //   "name": "Unimplemented",
-    //   "scope": "invalid.unimplemented",
-    //   "settings": {
-    //     "foreground": "#ffffff"
-    //   }
-    // },
-    // {
-    //   "name": "Invalid deprecated",
-    //   "scope": "invalid.deprecated",
-    //   "settings": {
-    //     "foreground": "#ffffff"
-    //   }
-    // },
+    {
+      "name": "Unimplemented",
+      "scope": "invalid.unimplemented",
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "Invalid deprecated",
+      "scope": "invalid.deprecated",
+      "settings": {
+        "foreground": "#ffffff"
+      }
+    },
     {
       "name": "Keyword, Storage",
       "scope": [
         "keyword",
-        "keyword.control",
-        "keyword.operator",
-        "storage.type",
+        // "keyword.operator",
         "storage.modifier",
+      ],
+      "settings": {
+        "foreground": "#C792EA"
+      }
+    },
+    {
+      "name": "Keyword, Storage",
+      "scope": [
+        "keyword.control",
+        "storage.type",
       ],
       "settings": {
         "fontStyle": "italic",
@@ -444,6 +459,7 @@
     {
       "name": "Operator, Misc",
       "scope": [
+        "keyword.operator",
         "constant.other.color",
         "punctuation",
         "meta.tag",
