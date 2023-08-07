@@ -196,11 +196,13 @@
     "editorGutter.modifiedBackground": "#5ccfe6",
     "editorGutter.addedBackground": "#bae67e",
     "editorGutter.deletedBackground": "#ef6b73",
-    "diffEditor.insertedTextBackground": "#bae67e22",
-    "diffEditor.insertedTextBorder": "#bae67e44",
-    "diffEditor.removedTextBackground": "#ef6b7322",
-    "diffEditor.removedTextBorder": "#ef6b7344",
-    "diffEditor.border": "#2f3b54",
+
+    // Diff Editor
+    // "diffEditor.insertedTextBackground": "#bae67e22",
+    // "diffEditor.insertedTextBorder": "#bae67e44",
+    // "diffEditor.removedTextBackground": "#ef6b7322",
+    // "diffEditor.removedTextBorder": "#ef6b7344",
+    // "diffEditor.border": "#2f3b54",
 
     // Editor Widget colors
     "editorWidget.background": "#171c28",

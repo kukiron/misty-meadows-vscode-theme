@@ -37,4 +37,4 @@ Read the [VSC Extension Quickstart Guide](https://github.com/kukiron/misty-meado
 
 [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
 
-Syntax coloring based on [Sublime Material Theme](https://github.com/JarvisPrestidge/vscode-material-theme)
+<!-- Syntax coloring based on [Sublime Material Theme](https://github.com/JarvisPrestidge/vscode-material-theme) -->
