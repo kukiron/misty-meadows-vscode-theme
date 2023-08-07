@@ -310,12 +310,14 @@
     // Integrated Terminal colors
     "terminal.background": "#171c28",
     "terminal.border": "#171c28",
-    "terminal.ansiBrightWhite": "#b5bfd6",
+    "terminal.ansiBlack": "#00030F",
+    "terminal.ansiBrightWhite": "#d7dce2",
     "terminal.ansiBrightYellow": "#ffea00",
-    "terminal.ansiWhite": "#b5bfd6",
+    "terminal.ansiWhite": "#d7dce2",
     "terminal.ansiYellow": "#ffea00",
     "terminal.ansiBlue": "#385dea",
     "terminal.ansiBrightBlue": "#39b7ff",
+    "terminal.ansiGreen": "#59c45d",
     "terminalCursor.background": "#ffea00",
     "terminalCursor.foreground": "#ffea00",
 
