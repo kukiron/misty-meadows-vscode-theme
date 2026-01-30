@@ -26,6 +26,11 @@
         "label": "Misty Meadows",
         "uiTheme": "vs-dark",
         "path": "./themes/Misty Meadows-color-theme.json"
+      },
+      {
+        "label": "Misty Meadows Light",
+        "uiTheme": "hc-light",
+        "path": "./themes/Misty Meadows Light-color-theme.json"
       }
     ]
   }
